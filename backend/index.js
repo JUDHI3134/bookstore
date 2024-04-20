@@ -4,7 +4,11 @@ import dotenv from 'dotenv'
 import mongoose from "mongoose"
 dotenv.config()
 
+import bookRoute from './route/book.route.js'
+
 const PORT = process.env.PORT || 4000
+
+
 
 
 //database connection
@@ -18,6 +22,9 @@ try {
 } catch (error) {
     console.log("Error :",error)
 }
+
+//defining routes
+app.use("/book",bookRoute)
 
 app.listen(PORT, () => {
   console.log(`app listening on port ${PORT}`)
