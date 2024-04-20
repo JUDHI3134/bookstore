@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"story book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":0,
+        "category":"entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":2,
+        "name":"comedy book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":20,
+        "category":"comedy",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":3,
+        "name":"music book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":50,
+        "category":"song",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":4,
+        "name":"sports book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":5,
+        "name":"comedy book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":30,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":6,
+        "name":"story book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":0,
+        "category":"comedy",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":7,
+        "name":"music book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":50,
+        "category":"song",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":8,
+        "name":"story book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":9,
+        "name":"food book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":200,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":10,
+        "name":"story book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":0,
+        "category":"free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":11,
+        "name":"food book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":200,
+        "category":"food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    },
+    {
+        "id":12,
+        "name":"Entertainment book",
+        "title":"story book lorem ipsum hello jushi hgdr why corresponding upper ubhsed eutehhde bhegy",
+        "price":0,
+        "category":"entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1712769704~exp=1712773304~hmac=e1edba4c4a7c9ffa19d70dec3d1ef90ed66fbae2a6c1a11a1e600b33c75b6e55&w=740"
+    }
+]
